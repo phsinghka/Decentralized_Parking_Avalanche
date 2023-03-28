@@ -3,20 +3,19 @@ Park Rental App on Avalanche
 
 
 
-Snowtrace : https://testnet.snowtrace.io/address/0x7737e0ef01be1e86877e44ec69c39bbd04c38dca
+Snowtrace : https://testnet.snowtrace.io/address/0x8BB2f64bA892ADfDAAA21F0D95bBB19fB4F96b02
 
 > Dashboard
-![Dashboard](https://i.ibb.co/sF03N2L/Ekran-Resmi-2022-08-13-13-26-42.png)
+![Dashboard](./dash.png)
 
+> Snowtrace
+![Snwotrace](./snowtrace.png)
 
-### Which technologies did I use in this project?
+> Team
+![Team](./Teammember.png)
 
-* React
-* Solidity
-* Hardhat
-* React Hook Form
-* Chakra UI
-* Ethers.js
+>Link to Video Presentation 
+https://georgebrowncollege-my.sharepoint.com/:v:/g/personal/101354659_georgebrown_ca/EdBobVNiEXZBt_jrwFxQY-EBKOOfb37vDQSaUCNHMLPKRA?email=YashkumarKamleshbhai.Patel%40georgebrown.ca
 
 
 
